@@ -26,7 +26,7 @@ SECRET_KEY = '+mtdr09mjdmlv=ywwg75m&1^enxw08ms5uh*2m^u0d$bclbmre'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alex-django-task-app.herokuapp.com/']
+ALLOWED_HOSTS = ['alex-django-task-app.herokuapp.com']
 
 
 # Application definition
